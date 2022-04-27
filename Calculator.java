@@ -4,6 +4,13 @@ public class Calculator {
 	public static void main (String[] args) {
 		Scanner sc = new Scanner(System.in);		
 		int a, b;
+		System.out.println("***Calculator***");
+		System.out.println("Ingrese Valor de a");
+		a =sc.nextInt();
+		System.out.println("Ingrese Valor de b");
+		b =sc.nextInt();
+
+		System.out.println("La suma de "+a+" + "+b+" es: "+suma(a,b));
 	}
 	
 	//METODOS
