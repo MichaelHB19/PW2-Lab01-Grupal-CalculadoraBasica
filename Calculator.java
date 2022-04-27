@@ -9,7 +9,9 @@ public class Calculator {
 	//METODOS
 
 	public static int add(int a, int b){
-		return 0;
+		int suma;
+		suma = a+b;
+		return suma;
 	}
 	public static int sub(int a, int b){
 		return 0;
