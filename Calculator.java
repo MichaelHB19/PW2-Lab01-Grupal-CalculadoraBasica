@@ -10,7 +10,8 @@ public class Calculator {
 		System.out.println("Ingrese Valor de b");
 		b =sc.nextInt();
 
-		System.out.println("La suma de "+a+" + "+b+" es: "+suma(a,b));
+		System.out.println("La suma de "+a+" + " +b+" es: "+add(a,b));
+
 	}
 	
 	//METODOS
