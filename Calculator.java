@@ -11,7 +11,7 @@ public class Calculator {
 		b =sc.nextInt();
 
 		System.out.println("La suma de "+a+" + " +b+" es: "+add(a,b));
-		System.out.plrinln("La resta de"+a+" - " +b+" es:");
+		System.out.plrinln("La resta de"+a+" - " +b+" es: "+sub(a,b));
 
 	}
 	
