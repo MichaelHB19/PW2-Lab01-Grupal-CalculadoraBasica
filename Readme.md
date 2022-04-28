@@ -3,7 +3,7 @@
 <h3>I. Integrantes:</h3>
 <ol>
     <li>Eduardo Franshua Durand Obando.</li>
-    <li>Integrante 2</li>
+    <li>Jordy Rolando Tejada Lazo</li>
     <li>Integrante 3</li>
 </ol>
 
@@ -21,14 +21,14 @@
 <h3>IV. Desarrollo del laboratorio:</h3>
 
 <ol>
-    <li>Formamos grupo de 3 personas:</li>
+    <li>Formamos grupo de 3 personas:
         <ul>
             <li>Eduardo Franshua Durand Obando.</li>
             <li>Jordy Rolando Tejada Lazo.</li>
             <li>Integrante 3.</li>
         </ul>
-
-    <li>Un integrante del grupo debera crear el proyecto principal, con el nombre de su grupo, con la plantilla base:</li>
+    </li>
+    <li>Un integrante del grupo debera crear el proyecto principal, con el nombre de su grupo, con la plantilla base:
         <ul>
             <li>
                 Yo, Eduardo Franshua Durand Obando cree el proyecto principal llamado “PW2-Lab01-Grupal-CalculadoraBasica”. 
@@ -51,14 +51,14 @@
             </pre>
             
         </ul>
-
-    <li>Comparta el proyecto con sus compañeros de grupo y asigne uno o dos métodos distintos a cada integrante del grupo.</li>
+    </li>
+    <li>Comparta el proyecto con sus compañeros de grupo y asigne uno o dos métodos distintos a cada integrante del grupo.
         <ul>
             <li>CREADOR DE LA PLANTILLA Y LA FUNCIÓN ADD: Eduardo Durand.</li>
             <li>SUBIR PLANTILLA, EDITARLA FINALIZADA Y LAS FUNCIONES SUB Y MUL: Jordy Tejada </li>
             <li>Rol3</li>
         </ul>
-
+    </li>
     <li>Los integrantes del grupo hicimos clone, push y pull según correspondió, de modo que el repositorio contiene la solución final.</li>
 
     <li>Reportar al profesor que logró culminar la tarea. La tarea debe ser compartida con el profesor (CarloCorralesD, rescobedoq) y entregada usando el mismo url que se usó para clonar el repositorio.</li>
