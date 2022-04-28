@@ -23,7 +23,9 @@ public class Calculator {
 		return suma;
 	}
 	public static int sub(int a, int b){
-		return 0;
+		int resta;
+		resta = a-b;
+		return resta;
 	}
 	public static int mul(int a, int b){
 		return 0;
