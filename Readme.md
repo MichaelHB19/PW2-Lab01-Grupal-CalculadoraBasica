@@ -35,8 +35,7 @@
                 Hice una plantilla básica para que mis compañeros puedan clonar y trabajar su parte correspondiente. 
                 La solución final contendrá commits de todos los integrantes.
             </li>
-            <li>
-                URL: <a href="https://github.com/Eduard1610/PW2Lab01-Grupal-CalculadoraBasica.git" target="_blank">
+            <li>URL: <a href="https://github.com/Eduard1610/PW2Lab01-Grupal-CalculadoraBasica.git" target="_blank">
                     https://github.com/Eduard1610/PW2Lab01-Grupal-CalculadoraBasica.git
                     </a>
             </li>
@@ -47,22 +46,8 @@
                     int mul(int a, int b){ return 0; }   
                     int div(int a, int b){ return 0; }   
                     int mod(int a, int b){ return 0; }
-                }    
-            </pre>
-            
+                }   
+            </pre>   
         </ul>
-    </li>
-    <li>Comparta el proyecto con sus compañeros de grupo y asigne uno o dos métodos distintos a cada integrante del grupo.
-        <ul>
-            <li>CREADOR DE LA PLANTILLA Y LA FUNCIÓN ADD: Eduardo Durand.</li>
-            <li>SUBIR PLANTILLA, EDITARLA FINALIZADA Y LAS FUNCIONES SUB Y MUL: Jordy Tejada </li>
-            <li>Rol3</li>
-        </ul>
-    </li>
-    <li>Los integrantes del grupo hicimos clone, push y pull según correspondió, de modo que el repositorio contiene la solución final.</li>
-
-    <li>Reportar al profesor que logró culminar la tarea. La tarea debe ser compartida con el profesor (CarloCorralesD, rescobedoq) y entregada usando el mismo url que se usó para clonar el repositorio.</li>
-    <li>Enlace: 
-	<li><a href="https://github.com/Eduard1610/PW2-Lab01-Grupal-CalculadoraBasica.git">https://github.com/Eduard1610/PW2-Lab01-Grupal-CalculadoraBasica.git</a></li>
     </li>
 </ol>
