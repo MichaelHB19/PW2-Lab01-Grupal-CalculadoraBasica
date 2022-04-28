@@ -28,7 +28,9 @@ public class Calculator {
 		return resta;
 	}
 	public static int mul(int a, int b){
-		return 0;
+		int multiplicacion;
+		multiplicacion = a*b;
+		return multiplicacion;
 	}
 	public static int div(int a, int b){
 		return 0;
